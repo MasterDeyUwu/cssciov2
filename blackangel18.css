@@ -258,7 +258,7 @@ span.at {
   font-family: 'Roboto',sans-serif;
   font-size: 13px;
 
-  color:#fff;
+  
   text-shadow:2px 2px 15px #fff;
   position:relative;
   background:url(https://static.cracked.to/images/bg1.gif), linear-gradient(178deg, #ffffff, #000000);
@@ -267,8 +267,5 @@ span.at {
   background-repeat:repeat;
   animation:AnimationName 4s ease infinite;
   
-  -webkit-background-clip:text;
-  -webkit-text-fill-color:transparent;  
-  border-bottom:1px #9900ff
 
 }
