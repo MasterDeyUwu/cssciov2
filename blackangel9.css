@@ -264,8 +264,8 @@ span.at {
 
   color: rgb(0, 0, 0);
   background-repeat: repeat;
-  text-shadow: 2px 2px 15px rgb(255, 255, 255);
+  text-shadow: 2px 2px 15px rgb(0, 0, 0);
   background: url(https://static.cracked.to/images/bg1.gif);
-  font-weight: bold;
+  font-weight: 1400;
   
 }
