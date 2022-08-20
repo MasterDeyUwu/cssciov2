@@ -243,12 +243,14 @@ span.at {
 /* Angelic */
 #shoutbox a[href$="member.php?action=profile&uid=707074"]>span {
   all: initial;
+
   font-family: 'Roboto',sans-serif;
   font-size: 13px;
 
-  color: #fff;
-    background-repeat: repeat;
-    text-shadow: 2px 2px 15px #fff;
-    background: url(https://static.cracked.to/images/bg1.gif);
-    font-weight: 700;
+
+  color:#fff;
+  background-repeat:repeat;
+  text-shadow:2px 2px 15px #fff;
+  background:url(https://static.cracked.to/images/bg1.gif);
+  font-weight:700;
 }
