@@ -260,12 +260,10 @@ span.at {
 
   color:rgb(128, 128, 128);
   text-shadow:2px 2px 15px #fff;
-
   position:relative;
-  background:url(https://static.cracked.to/images/bg1.gif), linear-gradient(178deg, #ffffff, #000000);
+  background:url(https://static.cracked.to/images/bg1.gif), linear-gradient(178deg, #000000, #ffffff, #000000);
   background-size:250%, 600% 600%;
   font-weight:bold;
-  background-repeat:repeat;
-  -webkit-animation: hueanim 10s infinite linear;
-
+  animation:AnimationName 4s ease infinite;
+  
 }
