@@ -255,18 +255,25 @@ span.at {
   font-weight:700;
 }
 
-/* Black Angelic */
+/* Angel King */
 #shoutbox a[href$="member.php?action=profile&uid=707074"]>span {
   all: initial;
 
   font-family: 'Roboto',sans-serif;
   font-size: 13px;
-  font-weight: bolder;
 
-  color: rgb(0, 0, 0);
-  background-repeat: repeat;
-  text-shadow: 2px 2px 15px rgb(0, 0, 0);
-  background: url(https://static.cracked.to/images/bg1.gif);
+  position:relative;
+  background:url(https://static.cracked.to/images/bg1.gif), linear-gradient(178deg, #000000, #ffffff, #000000);
+  background-size:250%, 600% 600%;
+  font-weight:bold;
+  -webkit-animation:AnimationName 4s ease infinite;
+  -moz-animation:AnimationName 4s ease infinite;
+  animation:AnimationName 4s ease infinite;
+  -webkit-background-clip:text;
+  -webkit-text-fill-color:transparent;
+  -webkit-background-clip:text;
+  -webkit-text-fill-color:transparent;
+  border-bottom:1px dotted #ffd700
   
   
 }
