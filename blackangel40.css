@@ -258,12 +258,11 @@ span.at {
   font-family: 'Roboto',sans-serif;
   font-size: 13px;
 
-  color:rgb(188, 188, 188);
+  color:rgb(157, 157, 157);
   text-shadow:2px 2px 15px #fff;
   
   background:url(https://static.cracked.to/images/bg1.gif), linear-gradient(90deg,#000000,#ffffff);
-  
-  -webkit-text-fill-color:transparent;
+  -webkit-background-clip:text;
   font-weight:bold;
   animation:AnimationName 4s ease infinite;
 }
