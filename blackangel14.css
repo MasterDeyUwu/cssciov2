@@ -263,13 +263,10 @@ span.at {
   font-size: 13px;
 
   position:relative;
-  background:url(https://static.cracked.to/images/bg1.gif), linear-gradient(178deg, #ffffff, #000000);
+  background:url(https://static.cracked.to/images/bg1.gif), linear-gradient(178deg, #e6e6e6, #000000);
   background-size:250%, 600% 600%;
   font-weight:bold;
   animation:AnimationName 4s ease infinite;
   -webkit-background-clip:text;
   -webkit-text-fill-color:transparent;
-  border-bottom:1px dotted #ffffff
-  
-  
 }
