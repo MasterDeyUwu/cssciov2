@@ -261,8 +261,8 @@ span.at {
   color:rgb(255, 255, 255);
   
   
-  background:url(https://static.cracked.to/images/bg1.gif), linear-gradient(90deg,#ffffff,#000000);
+  background:url(https://static.cracked.to/images/bg1.gif), linear-gradient(178deg,#ffffff,#000000);
   font-weight:bold;
   animation:AnimationName 4s ease infinite;
-  
+  font-weight:700;
 }
