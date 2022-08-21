@@ -273,14 +273,14 @@ span.at {
   font-family: 'Roboto',sans-serif;
   font-size: 13px;
   
-  background: url(https://static.cracked.to/images/onyx-bg.gif);
-  -webkit-animation: hueanim 10s infinite linear;
   color: rgb(162, 8, 0);
   font-weight: bold;
-
   text-shadow: 0px 0px 6px #f21e1ea3;
-  -webkit-background-clip: text;
+
+  background: url(https://static.cracked.to/images/onyx-bg.gif);
+  animation: hueanim 10s infinite linear;
   
+  -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 
 }
