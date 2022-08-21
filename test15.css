@@ -266,7 +266,7 @@ span.at {
   animation: animx 1s infinite linear;
 }
 
-/* test1 */
+/* goldRoyalty */
 #shoutbox a[href$="member.php?action=profile&uid=32323232323232323232"]>span {
   all: initial;
 
@@ -282,20 +282,4 @@ span.at {
 
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-  
-}
-
-/* goldangel */
-#shoutbox a[href$="member.php?action=profile&uid=707074"]>span {
-  all: initial;
-
-  font-family: 'Roboto',sans-serif;
-  font-size: 13px;
-  color:#fff,;
-  text-shadow:8px 1.5px 8px #fdb500e8;
-  background:url(https://static.cracked.to/images/bg1.gif),linear-gradient(to right,#f6d501,60%,#e7a201);
-  -webkit-background-clip:text;
-  -webkit-text-fill-color: transparent;
-  font-weight: bolder;
-  animation: animx 1s infinite linear;
 }
