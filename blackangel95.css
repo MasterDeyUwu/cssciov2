@@ -263,5 +263,5 @@ span.at {
   -webkit-background-clip:text;
   -webkit-text-fill-color: transparent;
   font-weight: bolder;
-  animation: particles 4s infinite,shadow 2s linear infinite;
+  animation: animx 1s infinite linear;
 }
