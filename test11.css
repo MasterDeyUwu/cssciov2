@@ -285,4 +285,6 @@ span.at {
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background:url(https://static.cracked.to/images/bg1.gif);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
