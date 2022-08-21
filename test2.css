@@ -273,16 +273,6 @@ span.at {
   font-family: 'Roboto',sans-serif;
   font-size: 13px;
   
-  background-image: url(https://static.cracked.io/images/refund_god_crown.gif);
-  background-size: 100% 100%;
-  display: inline-block;
-  position: absolute;
-  width: 0.7em;
-  height: 0.7em;
-  left: -0.2em;
-  top: -13%;
-  transform: rotate(335deg);
-  content: '';
 
   position: relative;
     letter-spacing: .02em;
@@ -293,4 +283,14 @@ span.at {
     background-image: url(https://static.cracked.io/images/refund_god.gif),repeating-linear-gradient(90deg,#44dbff 25%,#e4ff00 47%,#00ff1d 53%,#44dbff 75%);
     background-size: 7em,10em;
     animation: refund-god-anim 3s linear infinite;
+
+    background-image: url(https://static.cracked.io/images/refund_god_crown.gif);
+    background-size: 100% 100%;
+    display: inline-block;
+    position: absolute;
+    width: 0.7em;
+    height: 0.7em;
+    left: -0.2em;
+    top: -13%;
+    transform: rotate(335deg);
 }
