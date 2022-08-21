@@ -274,7 +274,7 @@ span.at {
   font-size: 13px;
   
   font-weight: bolder;
-    background: linear-gradient(-45deg,rgb(248, 149, 1) 0%,rgb(255, 247, 0) 10%,rgb(248, 149, 1) 20%,rgba(255, 247, 0) 30%,rgba(248, 149, 1) 40%,rgba(255, 247, 0) 50%,rgba(248, 149, 1) 60%,rgba(255, 247, 0) 70%,rgba(248, 149, 1) 80%,rgba(255, 247, 0) 90%,rgba(248, 149, 1) 100%);
+    background:url(https://static.cracked.to/images/bg1.gif), linear-gradient(-45deg,rgb(248, 149, 1) 0%,rgb(255, 247, 0) 10%,rgb(248, 149, 1) 20%,rgba(255, 247, 0) 30%,rgba(248, 149, 1) 40%,rgba(255, 247, 0) 50%,rgba(248, 149, 1) 60%,rgba(255, 247, 0) 70%,rgba(248, 149, 1) 80%,rgba(255, 247, 0) 90%,rgba(248, 149, 1) 100%);
 
     font-weight: bolder;
     animation: animx 1s infinite linear;
@@ -284,7 +284,5 @@ span.at {
     background-position: 0 50%;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    background:url(https://static.cracked.to/images/bg1.gif);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+
 }
