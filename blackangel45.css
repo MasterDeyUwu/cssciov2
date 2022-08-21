@@ -94,7 +94,7 @@ span.at {
 
 
 /* KINGS */
-#shoutbox a[href$="member.php?action=profile&uid=10"]>span {
+#shoutbox a[href$="member.php?action=profile&uid=11111111"]>span {
   all: initial;
   
   font-family: 'Roboto',sans-serif;
@@ -237,7 +237,7 @@ span.at {
 }
 
 /* Angelic */
-#shoutbox a[href$="member.php?action=profile&uid=99"]>span {
+#shoutbox a[href$="member.php?action=profile&uid=707074"]>span {
   all: initial;
 
   font-family: 'Roboto',sans-serif;
@@ -251,19 +251,19 @@ span.at {
   font-weight:700;
 }
 
-/* Angel King */
+/* blackangelic */
 #shoutbox a[href$="member.php?action=profile&uid=707074"]>span {
   all: initial;
 
   font-family: 'Roboto',sans-serif;
   font-size: 13px;
 
+
   color:rgb(255, 255, 255);
   text-shadow:2px 2px 15px #fff;
   
-  background:url(https://static.cracked.to/images/bg1.gif),linear-gradient(90deg,#000000 0,#7f7f7f 100%,rgb(255, 255, 255));
+  background:url(https://static.cracked.to/images/bg1.gif),linear-gradient(90deg,#000000 0,#b50000 100%);
   -webkit-background-clip:text;
   -webkit-text-fill-color: transparent;
   font-weight:bold;
-  
 }
