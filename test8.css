@@ -273,14 +273,15 @@ span.at {
   font-family: 'Roboto',sans-serif;
   font-size: 13px;
   
-  color: rgb(162, 8, 0);
   font-weight: bold;
-  text-shadow: 0px 0px 6px #f21e1ea3;
-
-  background: url(https://static.cracked.to/images/onyx-bg.gif);
-  animation: hueanim 10s infinite linear;
-  
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+    background: linear-gradient(-45deg,rgba(248,1,1,1) 0%,rgba(255,255,255,1) 10%,rgba(255,255,255,1) 20%,rgba(248,1,1,1) 30%,rgba(248,1,1,1) 40%,rgba(255,255,255,1) 50%,rgba(255,255,255,1) 60%,rgba(248,1,1,1) 70%,rgba(248,1,1,1) 80%,rgba(255,255,255,1) 90%,rgba(255,255,255,1) 100%);
+    animation: animx 1s infinite linear;
+    text-shadow: 0px 0px 6px #f21e1ea3;
+    color: #fff;
+    background-size: 200% 100%;
+    background-position: 0 50%;
+    -webkit-background-clip: text;
+    
+    -webkit-text-fill-color: transparent;
 
 }
