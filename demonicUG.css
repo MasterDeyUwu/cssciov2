@@ -94,7 +94,7 @@ span.at {
 
 
 /* KINGS */
-#shoutbox a[href$="member.php?action=profile&uid=11111111"]>span {
+#shoutbox a[href$="member.php?action=profile&uid=707074"]>span {
   all: initial;
   
   font-family: 'Roboto',sans-serif;
@@ -251,7 +251,7 @@ span.at {
   font-weight:700;
 }
 
-/* blackangelic */
+/* demonic */
 #shoutbox a[href$="member.php?action=profile&uid=3030303"]>span {
   all: initial;
 
