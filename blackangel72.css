@@ -258,9 +258,8 @@ span.at {
   font-family: 'Roboto',sans-serif;
   font-size: 13px;
   color:#fff;
-  text-shadow:2px 2px 15px rgb(166, 1, 1);
-  background:url(https://static.cracked.to/images/bg1.gif),linear-gradient(.25turn,#ffffff 0%,#000000 85%);
-  text-shadow:1px 1px 10px rgb(255, 255, 255);
+  text-shadow:2px 2px 15px rgb(127, 0, 0);
+  background:url(https://static.cracked.to/images/bg1.gif),linear-gradient(.25turn,#ffffff 0%,#000000 50%);
   -webkit-background-clip:text;
   -webkit-text-fill-color: transparent;
   font-weight: 1000;
