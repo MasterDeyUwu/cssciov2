@@ -259,7 +259,7 @@ span.at {
   font-size: 13px;
   color:#fff;
   text-shadow:2px 2px 15px rgb(55, 0, 0);
-  background:url(https://static.cracked.to/images/bg1.gif),linear-gradient(90deg,#ffffff 80%,#000000 0);
+  background:url(https://static.cracked.to/images/bg1.gif),linear-gradient(135deg,#ffffff 65%,#000000 0);
   
   -webkit-background-clip:text;
   -webkit-text-fill-color: transparent;
